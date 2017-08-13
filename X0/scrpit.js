@@ -94,7 +94,173 @@ h1.style.fontSize = '9em'
 					}
 				}
 			}
+			item4.addEventListener("click", myFunc6)
+			function myFunc6(){
+			h7.style.transition = '2s ease'
+			h7.style.fontSize = '9em'
+				if(h7.style.fontSize = '9em')
+				{
+				h14.style.transition = '5s ease'
+				h14.style.fontSize = '9em'
+				}
+			}
+			item6.addEventListener("click", myFunc7)
+			function myFunc7(){
+			h11.style.transition = '2s ease'
+			h11.style.fontSize = '9em'
+				if(h11.style.fontSize == h3.style.fontSize)
+				{
+				h14.style.transition = '5s ease'
+				h14.style.fontSize = '9em'
+				}
+			}
+			item8.addEventListener("click", myFunc8)
+			function myFunc8(){
+			h15.style.transition = '2s ease'
+			h15.style.fontSize = '9em'
+				if(h15.style.fontSize = '9em')
+				{
+				h14.style.transition = '5s ease'
+				h14.style.fontSize = '9em'
+				}
+			}
+			item9.addEventListener("click", myFunc9)
+			function myFunc9(){
+			h17.style.transition = '2s ease'
+			h17.style.fontSize = '9em'
+				if(h17.style.fontSize = '9em')
+				{
+				h14.style.transition = '5s ease'
+				h14.style.fontSize = '9em'
+				}
+			}					
 		}
+		item3.addEventListener("click", myFunc10)
+		function myFunc10(){
+		h5.style.transition = '2s ease'
+		h5.style.fontSize = "9em"
+			if(h5.style.fontSize = '9em')
+			{
+			h4.style.transition = '2s ease'
+			h4.style.fontSize = '9em'
+
+				item8.addEventListener("click", myFunc15)
+				function myFunc15(){
+				h15.style.transition = '2s ease'
+				h15.style.fontSize = '9em'
+					if(h15.style.fontSize = h15.style.fontSize ==h4.style.fontSize)
+					{ 
+					h8.style.transition = '2s ease'
+					h8.style.fontSize = '9em'
+
+						item6.addEventListener("click", myFunc16)
+						function myFunc16(){
+						h11.style.transition = '2s ease'
+						h11.style.fontSize = '9em'
+							if(h11.style.fontSize = '9em')
+							{ 
+							h18.style.transition = '2s ease'
+							h18.style.fontSize = '9em'	
+							h16.style.transition = '0s ease'
+							h16.style.fontSize = '0em'	
+
+								item7.addEventListener("click", myFunc18)
+								function myFunc18(){
+								h13.style.transition = '2s ease'
+								h13.style.fontSize = '9em'
+								h16.style.transition = '0s ease'
+								h16.style.fontSize = '0em'
+								}								
+							}	
+						}
+					}	
+				}
+				item4.addEventListener("click", myFunc11)
+				function myFunc11(){
+				h7.style.transition = '2s ease'
+				h7.style.fontSize = '9em'
+					if(h7.style.fontSize = '9em')
+					{
+					h16.style.transition = '2s ease'
+					h16.style.fontSize = '9em'	
+					}	
+				}
+				item6.addEventListener("click", myFunc12)
+				function myFunc12(){
+				h11.style.transition = '2s ease'
+				h11.style.fontSize = '9em'
+					if(h11.style.fontSize = '9em')
+					{
+					h16.style.transition = '2s ease'
+					h16.style.fontSize = '9em'	
+					}	
+				}
+				item7.addEventListener("click", myFunc13)
+				function myFunc13(){
+				h13.style.transition = '2s ease'
+				h13.style.fontSize = '9em'
+					if(h13.style.fontSize = '9em')
+					{
+					h16.style.transition = '2s ease'
+					h16.style.fontSize = '9em'	
+					}	
+				}
+				item9.addEventListener("click", myFunc14)
+				function myFunc14(){
+				h17.style.transition = '2s ease'
+				h17.style.fontSize = '9em'
+					if(h17.style.fontSize = '9em')
+					{
+					h16.style.transition = '2s ease'
+					h16.style.fontSize = '9em'	
+					}	
+				}
+			}	
+		}
+		item4.addEventListener("click", myFunc18)
+		function myFunc18(){
+		h7.style.transition = '2s ease'
+		h7.style.fontSize = '9em'
+			if(h7.style.fontSize = '9em')
+			{
+			h14.style.transition = '5s ease'
+			h14.style.fontSize = '9em'
+
+				item3.addEventListener("click", myFunc19)
+				function myFunc19(){
+				h5.style.transition = '2s ease'
+				h5.style.fontSize = '9em'
+					if(h5.style.fontSize = '9em')
+					{
+					h4.style.transition = '5s ease'
+					h4.style.fontSize = '9em'
+
+						item8.addEventListener("click", myFunc20)
+						function myFunc20(){
+						h15.style.transition = '2s ease'
+						h15.style.fontSize = '9em'
+							if(h15.style.fontSize = '9em')
+							{
+							h18.style.transition = '5s ease'
+							h18.style.fontSize = '9em'
+							h8.style.transition = '0s ease'
+							h8.style.fontSize = '0em'
+								item8.addEventListener("click", myFunc21)
+								function myFunc21(){
+								h15.style.transition = '2s ease'
+								h15.style.fontSize = '9em'
+									if(h15.style.fontSize = '9em')
+									{
+									h12.style.transition = '5s ease'
+									h12.style.fontSize = '9em'
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}		
 	}
 }
 
@@ -102,7 +268,6 @@ h1.style.fontSize = '9em'
 
 
 
-	
 
 
 

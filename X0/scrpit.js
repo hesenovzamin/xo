@@ -55,6 +55,17 @@ console.log(h18)
 var xett1 = document.querySelector(".xett1")
 console.log(h18)
 
+
+
+// if(h4.style.fontSize == h10.style.fontSize == h16.style.fontSize)
+// {
+// 	function(){
+// 		xett1.style.display = "block"
+// 	}
+// }
+
+
+
 item1.addEventListener("click", myFunc1)
 function myFunc1(){
 h1.style.transition = '2s ease'
@@ -183,7 +194,7 @@ h1.style.fontSize = '9em'
 				item4.addEventListener("click", myFunc11)
 				function myFunc11(){
 				h7.style.transition = '2s ease'
-				h7.style.fontSize = '9em'
+				h7.style.fontSize = '9em' 
 					if(h7.style.fontSize = '9em')
 					{
 					h16.style.transition = '2s ease'

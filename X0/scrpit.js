@@ -52,6 +52,9 @@ var h17 = document.querySelector("#h17")
 console.log(h17)
 var h18 = document.querySelector("#h18")
 console.log(h18)
+var xett1 = document.querySelector(".xett1")
+console.log(h18)
+
 item1.addEventListener("click", myFunc1)
 function myFunc1(){
 h1.style.transition = '2s ease'
@@ -80,12 +83,14 @@ h1.style.fontSize = '9em'
 						function myFunc4(){
 						h11.style.transition = '2s ease'
 						h11.style.fontSize = '9em'
+						h14.style.transition = '0s ease'
+						h14.style.fontSize = '0em'
 							if(h13.style.fontSize = '9em')
 							{
 							h16.style.transition = '5s ease'
 							h16.style.fontSize = '9em'
-								item9.addEventListener("click", myFunc5)
-								function myFunc5(){
+								item9.addEventListener("click", myFunc100)
+								function myFunc100(){
 								h17.style.transition = '2s ease'
 								h17.style.fontSize = '9em'
 								}			
@@ -148,7 +153,7 @@ h1.style.fontSize = '9em'
 				function myFunc15(){
 				h15.style.transition = '2s ease'
 				h15.style.fontSize = '9em'
-					if(h15.style.fontSize = h15.style.fontSize ==h4.style.fontSize)
+					if(h15.style.fontSize = h15.style.fontSize == h4.style.fontSize)
 					{ 
 					h8.style.transition = '2s ease'
 					h8.style.fontSize = '9em'
@@ -183,6 +188,8 @@ h1.style.fontSize = '9em'
 					{
 					h16.style.transition = '2s ease'
 					h16.style.fontSize = '9em'	
+					h14.style.transition = '0s ease'
+					h14.style.fontSize = '0em'
 					}	
 				}
 				item6.addEventListener("click", myFunc12)
@@ -245,15 +252,12 @@ h1.style.fontSize = '9em'
 							h18.style.fontSize = '9em'
 							h8.style.transition = '0s ease'
 							h8.style.fontSize = '0em'
-								item8.addEventListener("click", myFunc21)
+								item6.addEventListener("click", myFunc21)
 								function myFunc21(){
-								h15.style.transition = '2s ease'
-								h15.style.fontSize = '9em'
-									if(h15.style.fontSize = '9em')
-									{
-									h12.style.transition = '5s ease'
-									h12.style.fontSize = '9em'
-									}
+								h11.style.transition = '2s ease'
+								h11.style.fontSize = '9em'
+								h12.style.transition = '0s ease'
+								h12.style.fontSize = '0em'				
 								}
 							}
 						}
